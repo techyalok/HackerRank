@@ -1,2 +1,3 @@
 # HackerRank
-HackerRank Problems solution
+
+Solutions for Problems Solved on Hackerrank
